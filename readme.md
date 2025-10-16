@@ -1,6 +1,5 @@
 # 💫 About Me:
-A skilled ML/AI developer . I bring technical precision and creative flair to projects, capturing moments through my lens and weaving compelling narratives. In the NFT space, I'm not just an observer; I'm actively shaping the digital art revolution with blockchain expertise. Let's innovate and create together!
-
+Highly motivated Computer Science professional specializing in Data Science, Artificial Intelligence, and Web Development. Proficient in Python, SQL, and Power BI, with practical experience designing responsive web applications and automating analytical pipelines. Expertise includes dashboard creation, financial data automation, and implementing advanced NLP models.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aquib-jawed-1147ab164/) 
