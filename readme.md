@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated Computer Science professional specializing in Data Science, Artificial Intelligence, and Web Development. Proficient in Python, SQL, and Power BI, with practical experience designing responsive web applications and automating analytical pipelines. Expertise includes dashboard creation, financial data automation, and implementing advanced NLP models.
+B. Tech Computer Science graduate with foundational skills in data science, AI, and software development. Proficient in Python, SQL, Power BI, and modern web technologies, with practical experience from projects and internship work. Capable of building responsive web apps, performing data analysis, and applying basic ML/NLP techniques
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aquib-jawed-1147ab164/) 
